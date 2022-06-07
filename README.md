@@ -14,7 +14,7 @@
   }
 }
 
-@media screen and (max-width: 768px) {
+> @media screen and (max-width: 768px) {
   .services__wrapper {
     grid-template-columns: 1fr;
   }
