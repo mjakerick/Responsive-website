@@ -7,7 +7,7 @@
 - Responsive Footer
 - Some JS for quality of life
 ## To Be Completed
-- Unhappy with the mobile services section using:
+- Unhappy with the responsive services section using CSS lines 552-562:
 > @media screen and (max-width: 1300px) {
   .services__wrapper {
     grid-template-columns: 1fr 1fr;
