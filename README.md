@@ -23,4 +23,4 @@ A creative "brochure" website for a business that sells color gradients
 - Add "a11y" ADA 508 compliance
 - Stretch goals:
   1. Add functional backend
-  2. lauch and host at domain
+  2. launch and host at a domain
