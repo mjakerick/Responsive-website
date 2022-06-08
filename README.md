@@ -1,4 +1,5 @@
 # Responsive-website
+A creative "brochure" website for a business that sells color gradients
 ## Completed
 - Responsive navbar
 - Responsive About Section
