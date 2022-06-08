@@ -53,3 +53,9 @@ const hideMobileMenu = () => {
 
 menuLinks.addEventListener('click', hideMobileMenu);
 navLogo.addEventListener('click', hideMobileMenu);
+
+// update year in footer based on current date
+const yearElement = document.getElementById('current-year');
+const currentYear = new Date().getFullYear();
+
+yearElement.innerHTML = currentYear;
