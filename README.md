@@ -21,5 +21,5 @@
 }
 - Add "a11y" ADA 508 compliance
 - Stretch goals:
-  1. Add backend
+  1. Add functional backend
   2. lauch and host at domain
